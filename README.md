@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-### :woman_technologist: About Me :
-Hi! My name is Rose, I live in Almaty, Kazakhstan and have been doing iOS dev for about a year
+### :woman_technologist: 
+My name is Rose, I live in Almaty, Kazakhstan and have been doing iOS dev for about a year
 
 My stack consists of:
 * UIKit
