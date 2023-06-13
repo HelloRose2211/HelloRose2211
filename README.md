@@ -1,16 +1,17 @@
+
 ### Hi there 👋
 
-<!--
-**HelloRose2211/HelloRose2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+Hi! My name is Rose, I live in Almaty, Kazakhstan and have been doing iOS dev for about a year
 
-Here are some ideas to get you started:
+My stack consists of:
+* UIKit
+* MVC, MVVM, MVP, Viper
+* Cocoapods, SPM, Carthage
+* CoreData, Realm, UserDefaults
+* Firebase, Keychain, AVFoudation
+* JSON, GCD, NSOperation, URLSession, NSCache
+* GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HelloRose2211&mode=weekly)](https://git.io/streak-stats)
