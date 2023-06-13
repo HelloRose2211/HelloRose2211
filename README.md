@@ -4,7 +4,7 @@
 ### :woman_technologist: 
 My name is Rose, I am from Kazakhstan, based in Almaty. I've been doing iOS dev for about a year
 
-My stack consists of:
+My stack:
 * UIKit
 * MVC, MVVM, MVP, Viper
 * Cocoapods, SPM, Carthage
